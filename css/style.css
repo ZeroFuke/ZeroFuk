@@ -1,0 +1,35 @@
+*{
+    margin: 25px;
+}
+.caja1{
+    width: 200px;
+    height: 200px;
+    border: 1pc solid;
+    border-color: aqua red blue yellow;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    background-color: black;
+    color: white;
+    font-size: 35px;
+}
+
+.caja2{
+    width: 200px;
+    height: 200px;
+    border: 5px solid;
+    background:linear-gradient(25grad, red, blue) ;
+
+}
+.borde{
+    width: 160px;
+    height: 160px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    position: absolute;
+    background-color: black;
+    margin: 19px;
+    color: white;
+}
+
